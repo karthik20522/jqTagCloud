@@ -1,7 +1,7 @@
 jqTagCloud
 ================
 
-Simple, configurable Tag Cloud in jQuery
+Simple, configurable Tag Cloud in jQuery [http://kufli.blogspot.com/2012/12/jqtagcloud-simple-tag-cloud-in-jquery.html]
 
 Usage:
 =======
