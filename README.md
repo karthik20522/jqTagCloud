@@ -21,8 +21,8 @@ Usage:
 <b>maxSize</b>: Maximum font size to use
 <br>
 <b>minSize</b>: Minimum font size to use
-<br>
-Multiple tag clouds can be used on same page. For example:
+<br><br>
+Multiple tag clouds can be used on same page. Checkout the example file for demo:
 
 	<script>
 		$("#panel").jqTagCloud({ maxSize:30, minSize:12 });
