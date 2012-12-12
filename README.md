@@ -19,11 +19,11 @@ Usage:
 	</script>
 	
 <b>maxSize</b>: Maximum font size to use
-<b>minSize</b>: Minimum font size to use
-
 <br>
-
+<b>minSize</b>: Minimum font size to use
+<br>
 Multiple tag clouds can be used on same page. For example:
+
 	<script>
 		$("#panel").jqTagCloud({ maxSize:30, minSize:12 });
 		$("#panel2").jqTagCloud({ maxSize:35, minSize:10 });
