@@ -1,4 +1,4 @@
-jQTagCould
+jQTagCloud
 ================
 
 Simple, configurable Tag Cloud in jQuery
