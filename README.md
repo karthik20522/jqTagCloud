@@ -28,3 +28,5 @@ Multiple tag clouds can be used on same page. Checkout the example file for demo
 		$("#panel").jqTagCloud({ maxSize:30, minSize:12 });
 		$("#panel2").jqTagCloud({ maxSize:35, minSize:10 });
 	</script>
+
+Demo: http://karthik20522.github.io/jqTagCloud/
